@@ -1,3 +1,3 @@
 ----------------stegano6------------------------------------------------------------------------------
 
-you need to put this in hax editor and search for pass
+you need to put this in hax editor and search for "psswd"
